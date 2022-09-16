@@ -1,1 +1,3 @@
 # PerangkumanTeks
+
+Teks berupa berita dan artikel biasanya berbentuk paragraf yang panjang. Akan membosankan bila harus membacanya secara keseluruhan. Teks yang panjang tersebut dapat dirangkum untuk mempersingkat teks dan memiliki inti yang sama. Namun bila merangkumnya secara manual, maka tetap perlu membaca secara keseluruhan dan menghabiskan waktu. Maka dari itu, perlu dibuat sebuah sistem yang dapat merangkum teks secara otomatis. Proyek ini merupakan proyek pribadi yang mengimplementasikan metode BERT, GPT, dan TFIDF untuk merangkum teks secara ekstraktif dimana mengambil kata penting yang disusun menjadi satu kalimat.
